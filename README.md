@@ -11,4 +11,7 @@ Note that interactives maps and figures from Plotly are not supported by Github 
 
 3 - Data Viz': https://www.kaggle.com/code/lamberttibo/2-3m-wildfires-3-data-viz
 
+4 - Machine Learning : https://www.kaggle.com/code/lamberttibo/2-3m-wildfires-4-predictions
+
+
 As a recent dev' on Python, any suggestion to optimize the code is welcome.
